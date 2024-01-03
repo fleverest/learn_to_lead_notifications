@@ -40,13 +40,14 @@ Password:
 [2024-01-04T01:58:49.691968] Notification sent to user@gmail.com.
 [2024-01-04T01:58:51.215263] Notification sent to user2@gmail.com.
 [2024-01-04T01:58:51.482493] Done sending notifications.
+[2024-01-04T02:13:46.601289] Scanning Urban Climb website for new "Learn to Lead" course listings.
+[2024-01-04T02:13:46.664133] No new listings.
+[2024-01-04T02:28:46.760917] Scanning Urban Climb website for new "Learn to Lead" course listings.
+[2024-01-04T02:28:47.019174] No new listings.
+[2024-01-04T02:43:47.125589] Scanning Urban Climb website for new "Learn to Lead" course listings.
+[2024-01-04T02:43:47.195472] No new listings.
 ```
 
-## Python requirements
-
-- Python 3.8 (I assume, for `:=` operator) or later.
-- [click](https://click.palletsprojects.com/)
-- All other required libraries ship with standard distributions of Python3.
 
 ## Application settings
 
